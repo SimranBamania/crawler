@@ -6,15 +6,10 @@ Myntra Scraper is a Python application designed to scrape product images from My
 ## Table of Contents
 
 - [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Code Explanation](#code-explanation)
   - [getimage.py](#getimagepy)
   - [__init__.py](#__init__.py)
   - [download_image.py](#download_imagepy)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
